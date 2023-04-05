@@ -1,4 +1,5 @@
-<!--START_SECTION:activity-->
+<!--
+**Vian-K/ReadMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # console.log("Hello friends!")
 
