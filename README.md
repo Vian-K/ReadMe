@@ -8,7 +8,7 @@ This is where I do things
 ## who am i
 
 ``` javascript
-{
+about_me = {
 name: 'Vian Khachatourian'
 from: 'Los Angeles, CA'
 job: 'Seeking full stack engineering roles!'
