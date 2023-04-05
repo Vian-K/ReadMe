@@ -1,3 +1,5 @@
+<!--START_SECTION:activity-->
+
 # console.log("Hello friends!")
 
 This is where I do things 
