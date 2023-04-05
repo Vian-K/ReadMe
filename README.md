@@ -10,15 +10,15 @@ This is where I do things
 ``` javascript
 about_me = {
 
-name: 'Vian Khachatourian'
-from: 'Los Angeles, CA'
-job: 'Seeking full stack engineering roles!'
+name: 'Vian Khachatourian',
+from: 'Los Angeles, CA',
+job: 'Seeking full stack engineering roles!',
 education: {
         App_Academy: "24-week software engineering bootcamp (2022-2023)"
         Irvine_Valley_College: "Associates Degree - Business Administration (2017-2019)"
-     }
+     },
 coding_Languages: ['Javascript', 'Python', 'HTML', 'CSS', 'Sequelize', 'SQlite3', 'SQLAlechemy',
-                   'Flask', 'React', 'Redux', 'Express' ]
+                   'Flask', 'React', 'Redux', 'Express' ],
 countries_Ive_Visited: {
         Armenia: ['Yerevan', 'Sevan Lake', 'Tsaghkadzor']
         Austria: ['Salzburg']
@@ -27,7 +27,7 @@ countries_Ive_Visited: {
         Germany: ['Berlin', 'Hamburg', 'Luneberg']
         Italy: ['Rome', 'Venice']
         Switzerland: ['Geneva', 'Lucerne', 'Interlakken', 'Zurich']       
-     }
+     },
 interests: {
         computers: ['Building PCs', 'Coding ;)']
         gaming: [`World of Warcraft ${classic}`]
@@ -35,7 +35,7 @@ interests: {
         shows: ['Mr.Robot', 'GOT', 'The Boys', 'Breaking Bad', 'Westworld', 'The Office', 'New Girl']
         but_Also: ['Traveling', 'Offroading', 'Camping', 'Golf']
         
-     }
+     },
 
 pets: {
         Milo: ['Beagle/Basset hound'] 
