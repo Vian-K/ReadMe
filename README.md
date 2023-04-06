@@ -7,7 +7,7 @@ This is where I do things
 
 ## who am i
 
-``` python
+``` javascript
 about_me = {
 
 name: 'Vian Khachatourian',
