@@ -41,5 +41,5 @@ pets: {
         Milo: ['Beagle/Basset hound'] 
      }
 
-
+}
 ```
