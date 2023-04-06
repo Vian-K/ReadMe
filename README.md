@@ -22,11 +22,11 @@ coding_Languages: ['Javascript', 'Python', 'HTML', 'CSS', 'Sequelize', 'SQlite3'
 countries_Ive_Visited: {
         Armenia: ['Yerevan', 'Sevan Lake', 'Tsaghkadzor'],
         Austria: ['Salzburg'],
-        Czech_Republic: ['Prague', 'Berno'],
+        Czech_Republic: ['Prague', 'Brno'],
         France: ['Paris'],
         Germany: ['Berlin', 'Hamburg', 'Luneberg'],
         Italy: ['Rome', 'Venice'],
-        Switzerland: ['Geneva', 'Lucerne', 'Interlakken', 'Zurich']       
+        Switzerland: ['Geneva', 'Lucerne', 'Interlaken', 'Zurich']       
      },
 interests: {
         computers: ['Building PCs', 'Coding ;)'],
