@@ -17,7 +17,7 @@ education: {
         App_Academy: "24-week software engineering bootcamp (2022-2023)",
         Irvine_Valley_College: "Associates Degree - Business Administration (2017-2019)"
      },
-coding_Languages: ['Javascript', 'Python', 'HTML', 'CSS', 'Sequelize', 'SQlite3', 'SQLAlechemy',
+coding_Languages: ['Javascript', 'Python', 'HTML', 'CSS', 'Sequelize', 'SQlite3', 'SQLAlchemy',
                    'Flask', 'React', 'Redux', 'Express' ],
 countries_Ive_Visited: {
         Armenia: ['Yerevan', 'Sevan Lake', 'Tsaghkadzor'],
