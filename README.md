@@ -26,6 +26,7 @@ countries_Ive_Visited: {
         France: ['Paris'],
         Germany: ['Berlin', 'Hamburg', 'Luneberg'],
         Italy: ['Rome', 'Venice'],
+        Netherlands: ['Amsterdam'],
         Switzerland: ['Geneva', 'Lucerne', 'Interlaken', 'Zurich']       
      },
 interests: {
