@@ -34,7 +34,7 @@ interests: {
         gaming: [`World of Warcraft ${classic}`],
         movies: ['Marvel (until phase 3)', 'LOTR', 'X-men', 'The Incredibles', 'Shrek'],
         shows: ['Mr.Robot', 'GOT', 'The Boys', 'Breaking Bad', 'Westworld', 'The Office', 'New Girl'],
-        but_Also: ['Traveling', 'Offroading', 'Camping', 'Golf',
+        but_Also: ['Traveling', 'Offroading', 'Camping', 'Golf']
      },
 
 pets: {
